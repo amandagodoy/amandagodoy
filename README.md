@@ -4,14 +4,14 @@
 
 ### My name is Amanda Godoy Lima
 
-Currently studying programming with a focus on backend but I've worked in the financial and HR / DP area for five years.
-I have a background in accounting sciences and a post-graduate degree in International Finance and Macroeconomic Policy, I try to have my first experiences in the backend area as soon as I continue studying.
+I am currently a student of Systems Analysis and Development, in parallel with courses such as Alura, video course and programming events with projects, but I have worked in the financial and HR / DP areas for 5 years.
+I have a degree in Accounting and a postgraduate degree in International Finance and Macroeconomic Policy, I try to have my first experiences in the area of ​​programming as soon as I continue studying.
 
-## My hobbys are
+## My hobbies are
 
-* Reading books on foreign literature, finance and several other genres;
+* Reading books on foreign literature, programming, finance and several other genres;
 * Listening to music and podcasts;
-* codar;
+* codar (projects / events);
 * Watch series, movies, anime and youtube videos.
 
 <img>
