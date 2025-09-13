@@ -4,8 +4,14 @@
 
 ### My name is Amanda Godoy Lima
 
-I am currently a student of Systems Analysis and Development, in parallel with courses such as Alura, video course and programming events with projects, but I have worked in the financial and HR / DP areas for 5 years.
-I have a degree in Accounting and a postgraduate degree in International Finance and Macroeconomic Policy, I try to have my first experiences in the area of ​​programming as soon as I continue studying.
+Profissional em transição para a área de Análise de Dados e Desenvolvimento Back-End, com sólida experiência de mais de 5 anos nas áreas Financeira e de RH/DP.
+Pós-graduada em Finanças Internacionais e Política Macroeconômica, Tecnóloga em Análise e Desenvolvimento de Sistemas e graduada em Ciências Contábeis.
+
+No Santander, auxiliei em governança corporativa e gestão de portfólio, com foco em otimização de processos, monitoramento de indicadores, gestão orçamentária e comunicação entre múltiplos domínios de negócio.
+
+Atualmente, aprofundo meus estudos em Python, SQL, Power BI e análise de dados, com o objetivo de unir raciocínio analítico e experiência de negócios para gerar soluções orientadas a dados.
+
+Aberta a oportunidades que permitam aplicar minha visão multidisciplinar, consolidando minha carreira na área de tecnologia.
 
 ## My hobbies are
 
